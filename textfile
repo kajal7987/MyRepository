@@ -4,3 +4,9 @@ This will download the package again and uncompress it for installation. However
 yum remove git
 yum clean all
 yum install git
+ installed git using
+
+sudo yum install git
+I believe git is corrupted in some manner, when I try to clone a repository from github it asks for my bitbucket password and the clone isn't a clone. I would like to reinstall git, by first uninstalling git. However all the related answers are for ubuntu and windows.
+
+With fedora how do I uninstall git?
