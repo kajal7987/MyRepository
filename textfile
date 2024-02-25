@@ -1,0 +1,6 @@
+Hi
+This will download the package again and uncompress it for installation. However, if that don't fix the issue, I recommend doing the following:
+
+yum remove git
+yum clean all
+yum install git
